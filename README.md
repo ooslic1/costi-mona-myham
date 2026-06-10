@@ -6,7 +6,7 @@
 
 Turn GitHub contribution data into a retro-style head-to-head game while practicing modern Copilot workflows.
 
-[🚀 Start the workshop](workshop/00-overview.md) • [🧠 VS Code track](workshop/00-overview.md) • [⌨️ CLI track](workshop/00-overview.md)
+[🚀 Start the workshop](workshop/00-overview.md) • [🧠 VS Code track](workshop/01-setup.md#step-2-choose-your-development-environment) • [⌨️ CLI track](workshop/01-setup.md#step-2-install-github-copilot-cli)
 
 A workshop template for building a retro arcade-themed website with Astro that compares GitHub contribution graphs of two users. This is the **starting point** — you'll build the app step by step using GitHub Copilot.
 
