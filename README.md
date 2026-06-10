@@ -2,12 +2,22 @@
 
 # 🎮 Mona Mayhem
 
-**VS Code & GitHub Copilot CLI Workshop** — Build a GitHub Contribution Battle Arena
+**VS Code & GitHub Copilot CLI Workshop** — Build a GitHub Contribution Battle Arena.
+
+Turn GitHub contribution data into a retro-style head-to-head game while practicing modern Copilot workflows.
+
+[🚀 Start the workshop](workshop/00-overview.md) • [🧠 VS Code track](workshop/01-setup.md#step-2-choose-your-development-environment) • [⌨️ CLI track](workshop/01-setup.md#step-2-install-github-copilot-cli)
 
 A workshop template for building a retro arcade-themed website with Astro that compares GitHub contribution graphs of two users. This is the **starting point** — you'll build the app step by step using GitHub Copilot.
 
 ![Mona Mayhem Screenshot](https://github.com/user-attachments/assets/5eca79e2-cb9f-4e93-aa0d-23666ebde3b7)
-*What you'll build by the end of the workshop*
+*Build this arcade-style GitHub battle arena by the end of the workshop.*
+
+## ✨ Why this repo
+
+- Learn by building a fun, visual project instead of a toy TODO app
+- Practice both **editor-native** and **terminal-native** Copilot workflows
+- Leave with a polished Astro app you can keep extending
 
 ## 📚 Workshop
 
